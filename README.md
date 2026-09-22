@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/ankitaraut2345/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ankitaraut2345/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ankitaraut2345/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Math
 |  |
