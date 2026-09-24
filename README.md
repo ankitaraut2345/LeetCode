@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ankitaraut2345/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ankitaraut2345/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ankitaraut2345/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ankitaraut2345/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ankitaraut2345/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
 |  |
 | ------- |
