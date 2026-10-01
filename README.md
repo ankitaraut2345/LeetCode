@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ankitaraut2345/LeetCode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/ankitaraut2345/LeetCode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
@@ -65,10 +66,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ankitaraut2345/LeetCode/tree/master/0020-valid-parentheses) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ankitaraut2345/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ankitaraut2345/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/ankitaraut2345/LeetCode/tree/master/0050-powx-n) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ankitaraut2345/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
