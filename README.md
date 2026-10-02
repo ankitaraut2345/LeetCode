@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/ankitaraut2345/LeetCode/tree/master/0046-permutations) |
 | [0560-subarray-sum-equals-k](https://github.com/ankitaraut2345/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ankitaraut2345/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ankitaraut2345/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankitaraut2345/LeetCode/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/ankitaraut2345/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
