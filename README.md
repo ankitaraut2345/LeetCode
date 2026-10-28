@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankitaraut2345/LeetCode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/ankitaraut2345/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ankitaraut2345/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ankitaraut2345/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ankitaraut2345/LeetCode/tree/master/0344-reverse-string) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ankitaraut2345/LeetCode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/ankitaraut2345/LeetCode/tree/master/0067-add-binary) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ankitaraut2345/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ankitaraut2345/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ankitaraut2345/LeetCode/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/ankitaraut2345/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -113,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ankitaraut2345/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ankitaraut2345/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
